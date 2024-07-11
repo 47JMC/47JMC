@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @47JMC
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python, React
 - 😄 Pronouns: JMC, 47JMC
 - ⚡ Fun fact: I cant host my react website here lol
 
