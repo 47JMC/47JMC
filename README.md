@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @47JMC
 - 🌱 I’m currently learning Python, React
 - 😄 Pronouns: JMC, 47JMC
-- ⚡ Fun fact: I cant host my react website here lol
+- ⚡ Fun fact: No fun fact logo
 
 <!---
 47JMC/47JMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
