@@ -1,4 +1,4 @@
-Hi iam @47JMC.
+Hi i am @47JMC.
 - Kinda new to github!
 - Discord py bot developer
 - HTML, CSS, JS, React Web developer
